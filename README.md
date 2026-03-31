@@ -38,4 +38,4 @@
 
 ---
 
-*Open to QA / AI QA roles — remote or relocation.*
+*Open to QA / AI QA roles.*
