@@ -4,21 +4,14 @@
 
 ---
 
-## What I do
-
-I test software — and now I'm learning to test AI systems.
-My current focus is on LLM evaluation, prompt injection, hallucination detection, and AI pipeline testing.
-
----
-
 ## Skills
 
 **Test Automation**
-- Selenium · TestNG · Playwright
-- Java · JavaScript
-- Maven · Git
+- Cypress · Playwright · Selenium
+- JavaScript · Java
+- Page Object Model · GitHub Actions
 
-**API & Performance Testing**
+**API Testing**
 - Postman · REST API testing
 
 **AI QA (in progress)**
@@ -27,31 +20,22 @@ My current focus is on LLM evaluation, prompt injection, hallucination detection
 - Hallucination & bias detection
 - ISTQB CT-AI Syllabus v1.0
 
-**Tools**
-- VS Code · IntelliJ IDEA · GitHub Actions
-
 ---
 
 ## Currently learning
 
 - ISTQB Certified Tester — AI Testing (CT-AI)
-- Playwright for end-to-end automation
-- AI testing techniques with Promptfoo
+- Playwright for E2E automation
+- AI testing with Promptfoo
 
 ---
 
-## Certifications
+## Projects
 
-- ISTQB CT-AI — in preparation
-
----
-
-## Let's connect
-
-I'm open to **QA / AI QA roles** — remote or relocation to Spain / Western Europe.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/svetla-dimitrova)
+| Repo | Description |
+|------|-------------|
+| [cypress-portfolio](https://github.com/Svetla16/cypress-portfolio) | E2E test suite with Cypress 13, Page Object Model, GitHub Actions CI |
 
 ---
 
-*"Quality is not an act, it is a habit."*
+*Open to QA / AI QA roles — remote or relocation.*
